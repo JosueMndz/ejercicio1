@@ -20,6 +20,7 @@ public class SisVotaciones {
         // TODO code application logic here
         
         JOptionPane.showMessageDialog(null, "Hola veve");
+        JOptionPane.showMessageDialog(null, "Prueba de Git a Netbeans"); //JM
         
     }
     
