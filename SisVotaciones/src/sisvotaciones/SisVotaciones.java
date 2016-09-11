@@ -5,6 +5,8 @@
  */
 package sisvotaciones;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author daniel
@@ -16,6 +18,9 @@ public class SisVotaciones {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        JOptionPane.showMessageDialog(null, "Hola veve");
+        
     }
     
 }
